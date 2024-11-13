@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/jsgilmore/mount"
+	mount "github.com/thethumbler/uprofile-mount"
 )
 
 func MountedProfiles(context *Context) []string {

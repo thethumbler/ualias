@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/jsgilmore/mount"
+	mount "github.com/thethumbler/uprofile-mount"
 	"github.com/spf13/cobra"
 	"github.com/thethumbler/uprofile/internal"
 )
